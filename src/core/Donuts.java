@@ -46,7 +46,7 @@ public class Donuts extends PApplet {
     public void draw() {
 
         if (frameCount < 2001) {
-            pieceChooser(Title.DONUT, false);
+            pieceChooser(Title.DONUT_II, false);
 //            pieceChooser(Title.DONUT_II, false);
         } else exit();
 
